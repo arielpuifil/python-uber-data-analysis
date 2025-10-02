@@ -12,8 +12,8 @@ ENV/
 
 .ipynb_checkpoints/
 
-.DS_Store  # Para macOS
-Thumbs.db  # Para Windows
+.DS_Store 
+Thumbs.db  
 *.swp
 *.bak
 *.tmp
