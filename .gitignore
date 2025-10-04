@@ -4,13 +4,13 @@ __pycache__/
 *.pyo
 *.pyd
 
-.ipynb_checkpoints/
-
 env/
 .env
 venv/
 ENV/
 *.egg-info/
+
+.ipynb_checkpoints/
 
 .DS_Store 
 Thumbs.db  
